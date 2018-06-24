@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 36d816f67efcf1d4abeabc17a9679fca
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Alarm
+    100002: Bed
+    100004: //RootNode
+    100006: Box
+    100008: Clothes
+    100010: Clothes1
+    100012: Clothes2
+    100014: Hanger
+    100016: Nightstand
+    100018: Shoes
+    100020: Suitcase
+    100022: Wardrobe
+    100024: Window
+    400000: Alarm
+    400002: Bed
+    400004: //RootNode
+    400006: Box
+    400008: Clothes
+    400010: Clothes1
+    400012: Clothes2
+    400014: Hanger
+    400016: Nightstand
+    400018: Shoes
+    400020: Suitcase
+    400022: Wardrobe
+    400024: Window
+    2300000: Alarm
+    2300002: Bed
+    2300004: Box
+    2300006: Clothes
+    2300008: Clothes1
+    2300010: Clothes2
+    2300012: Hanger
+    2300014: Nightstand
+    2300016: Shoes
+    2300018: Suitcase
+    2300020: Wardrobe
+    2300022: Window
+    3300000: Alarm
+    3300002: Bed
+    3300004: Box
+    3300006: Clothes
+    3300008: Clothes1
+    3300010: Clothes2
+    3300012: Hanger
+    3300014: Nightstand
+    3300016: Shoes
+    3300018: Suitcase
+    3300020: Wardrobe
+    3300022: Window
+    4300000: Wardrobe
+    4300002: Hanger
+    4300004: Clothes1
+    4300006: Clothes2
+    4300008: Clothes
+    4300010: Box
+    4300012: Shoes
+    4300014: Suitcase
+    4300016: Window
+    4300018: Bed
+    4300020: Nightstand
+    4300022: Alarm
+    7400000: Default Take
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AlarmLed
+    second: {fileID: 2100000, guid: 6680b2e949458e84d91a23323efd38ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed3
+    second: {fileID: 2100000, guid: acffa5d8a74b63348b742485bbb26e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed4
+    second: {fileID: 2100000, guid: d9a38d33fee2d934caa4d7f1a75fff87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark
+    second: {fileID: 2100000, guid: 6ca6aed1f11302d4882db23b1e8356e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 12e2d3667b02f574490a5bfda7402ce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 597385e6ca437214cb71589db37d298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium
+    second: {fileID: 2100000, guid: fcc094ec2fc07444886ba40629cdf576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nightstand
+    second: {fileID: 2100000, guid: a6093ad32447b0f4eb2a3c2826958f0d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
